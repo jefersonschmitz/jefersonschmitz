@@ -17,3 +17,11 @@ Na assistência técnica, ouço como cada cliente descreve o defeito do próprio
 ## Tecnologias
 
 Trabalho com **React, JavaScript, HTML e CSS** nos meus projetos de interface. Nos estudos de back-end, uso **Node.js, SQL e MySQL**. Versiono os projetos com Git e publico as demonstrações no GitHub Pages e no Cloudflare Pages.
+
+
+## Atividade no GitHub
+
+<p>
+  <img width="320" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jefersonschmitz&amp;theme=tokyonight" alt="Estatísticas de atividade de Jeferson no GitHub" />
+  <img width="320" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jefersonschmitz&amp;theme=tokyonight" alt="Distribuição dos repositórios por linguagem principal" />
+</p>
